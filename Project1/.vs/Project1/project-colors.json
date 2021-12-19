@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99c0541e-8d7e-45af-b4db-98db44308fb9": {
+      "ProjectGuid": "99c0541e-8d7e-45af-b4db-98db44308fb9",
+      "DisplayName": "员工分组",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
